@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Piel que
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:09:14.363825 | `v1` | `0e6004f72b279724ad3218cd35e8d373f760a56774ca118727e87f591f952475` | `b3b35a245108794dd7c29b155fee2ec241273d23eaa0c2b84c03349f95f5a6a4` | `2026-06-20_piel-que-te-busca-v1.txt` |
+| 2026-06-20T00:13:46.596455 | `v2` | `bbf0f9f8249f68a5e6944c5634e008a8dca2e301c5275ea2dc41cbc599be2953` | `d79d0e67d69540d5fca04f82e03d81e9b6e940235474e0258ecef22c2186091b` | `2026-06-20_piel-que-te-busca-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
