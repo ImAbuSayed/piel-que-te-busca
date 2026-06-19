@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Piel que te busca |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-que-te-busca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Piel que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-busca/) |
+| **Get License** | [License this song: Piel que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-busca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tus ojos me llaman, baby, no hay vuelta atrás,
-> La noche está fría pero tú me das más.
-> Es la piel que te busca, pidiendo calor,
-> Bajo las luces de neón, perdiendo el control.
+> Piel que te busca bajo la luna
+> Tus labios llaman, no hay duda ninguna
+> Noche de fuego, ven sin excusa
+> Que tu calor ya me tiene en la luna
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
