@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-que-te-busca/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Piel que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-busca/) |
+| **Get License** | [Request Licensing for Piel que te busca](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-que-te-busca/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3696)
+- [Telegram](https://t.me/AbuSayedMusic/3699)
 
 ---
 
